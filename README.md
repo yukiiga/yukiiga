@@ -7,7 +7,7 @@
 ## 国際会議
 * Yuki Igaue, Takio Kurita, Hiroaki Aizawa.
   "Incorporating Spatial Locality into Self-Attention for Training Vision Transformer on Small-Scale Datasets".
-   Proceedings of 27th International Conference on Pattern Recognition (ICPR), pp.-, 2024, [[PDF](https://drive.google.com/file/d/1wf_NSdxJMMVCgveCbNiLw7WPXCv3XlFB/view?usp=drive_link)]
+   Proceedings of 27th International Conference on Pattern Recognition (ICPR), Lecture Notes in Computer Science (volume 15303), pp.259-274, 2024, [[PDF](https://drive.google.com/file/d/1wf_NSdxJMMVCgveCbNiLw7WPXCv3XlFB/view?usp=drive_link)]
 
 ## 国内会議
 * 伊賀上裕輝, 栗田多喜夫, 相澤宏旭.
