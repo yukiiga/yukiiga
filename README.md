@@ -1,13 +1,13 @@
 ## プロフィール
 * 名前：伊賀上裕輝 (Yuki Igaue)
 * 所属：広島大学先進理工系科学研究科 M1 パターン認識研究室
-* 研究テーマ：Vision Transformer
+* 研究テーマ：Vision Transformer, Self-Attention
 * メール：m241838@hiroshima-u.ac.jp
 
 ## 国際会議
 * Yuki Igaue, Takio Kurita, Hiroaki Aizawa.
   "Incorporating Spatial Locality into Self-Attention for Training Vision Transformer on Small-Scale Datasets".
-   Proceedings of 27th International Conference on Pattern Recognition (ICPR), Lecture Notes in Computer Science (volume 15303), pp.259-274, 2024, [[PDF](https://drive.google.com/file/d/1wf_NSdxJMMVCgveCbNiLw7WPXCv3XlFB/view?usp=drive_link)]
+   Proceedings of 27th International Conference on Pattern Recognition (ICPR), Lecture Notes in Computer Science (volume 15303), pp.259-274, 2024, https://link.springer.com/chapter/10.1007/978-3-031-78122-3_17 [[PDF]([https://drive.google.com/file/d/1wf_NSdxJMMVCgveCbNiLw7WPXCv3XlFB/view?usp=drive_link](https://icpr2024.org/book/978-3-031-78122-3_Book_OnlinePDF.pdf))]
 
 ## 国内会議
 * 伊賀上裕輝, 栗田多喜夫, 相澤宏旭.
