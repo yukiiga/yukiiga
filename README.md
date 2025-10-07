@@ -1,6 +1,6 @@
 ## プロフィール
 * 名前：伊賀上裕輝 (Yuki Igaue)
-* 所属：広島大学先進理工系科学研究科 M1 パターン認識研究室
+* 所属：広島大学先進理工系科学研究科 M2 パターン認識研究室
 * 研究テーマ：Vision Transformer, Self-Attention
 * メール：m241838@hiroshima-u.ac.jp
 
@@ -8,11 +8,20 @@
 * Yuki Igaue, Takio Kurita, Hiroaki Aizawa.
   "Incorporating Spatial Locality into Self-Attention for Training Vision Transformer on Small-Scale Datasets".
    Proceedings of 27th International Conference on Pattern Recognition (ICPR), Lecture Notes in Computer Science (volume 15303), pp.259-274, 2024, https://link.springer.com/chapter/10.1007/978-3-031-78122-3_17 [[PDF](https://icpr2024.org/book/978-3-031-78122-3_Book_OnlinePDF.pdf)]
+* Yuki Igaue, Hiroaki Aizawa.
+  "Patch Pruning Strategy Based on Robust Statistical Measures of Attention Weight Diversity in Vision Transformers".
+   Proceedings of 8th Asian Conference on Pattern Recognition (ACPR), pp.xx-xx, 2025, https://arxiv.org/abs/2507.19175 [[PDF](https://arxiv.org/pdf/2507.19175)]
 
 ## 国内会議
 * 伊賀上裕輝, 栗田多喜夫, 相澤宏旭.
   "局所的なSelf-Attention機構を持つVision Transformerによる画像分類".
    第30回画像センシングシンポジウム SSII2024, IS02-04, 2024.6.13, 査読あり. [[PDF](https://drive.google.com/file/d/1FPJbF0TDOcui8i8BGQ0GQwyhkupqFJhg/view?usp=sharing)]
+* 伊賀上裕輝, 相澤宏旭.
+  "Vision TransformerにおけるAttention Weightの多様性に基づくロバスト統計指標を用いたパッチ枝刈り戦略".
+   第28回 画像の認識・理解シンポジウム MIRU2025, IS2-037, 2025.7.31, 査読なし.
+* 伊賀上裕輝, 相澤宏旭.
+  "Attention Entropyに基づくパッチ枝刈り戦略".
+   第30回知能メカトロニクスワークショップ iMec2025, IM2-2, 2025.9.16, 査読あり.
 
 ## 資格
 * 基本情報技術者試験
