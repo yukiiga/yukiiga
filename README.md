@@ -1,8 +1,8 @@
 ## プロフィール
 * 名前：伊賀上裕輝 (Yuki Igaue)
-* 所属：広島大学先進理工系科学研究科 M2 パターン認識研究室
+* 広島大学先進理工系科学研究科 M2 パターン認識研究室(2026年3月修了)
 * 研究テーマ：Vision Transformer, Self-Attention
-* メール：m241838@hiroshima-u.ac.jp
+* メール：yuki_0304@outlook.com
 
 ## 国際会議
 * Yuki Igaue, Takio Kurita, Hiroaki Aizawa.
@@ -11,6 +11,9 @@
 * Yuki Igaue, Hiroaki Aizawa.
   "Patch Pruning Strategy Based on Robust Statistical Measures of Attention Weight Diversity in Vision Transformers".
    Proceedings of 8th Asian Conference on Pattern Recognition (ACPR), pp.xx-xx, 2025, https://arxiv.org/abs/2507.19175 [[PDF](https://arxiv.org/pdf/2507.19175)]
+* Hiroaki Aizawa*, Yuki Igaue*.
+  "Rényi Attention Entropy for Patch Pruning".
+   Proceedings of 28th International Conference on Pattern Recognition (ICPR), pp.xx-xx, 2026, accepted, (*equal contribution). [[PDF](https://arxiv.org/html/2604.03803v1)]
 
 ## 国内会議
 * 伊賀上裕輝, 栗田多喜夫, 相澤宏旭.
@@ -22,6 +25,9 @@
 * 伊賀上裕輝, 相澤宏旭.
   "Attention Entropyに基づくパッチ枝刈り戦略".
    第30回知能メカトロニクスワークショップ iMec2025, IM2-2, 2025.9.16, 査読あり.
+* 伊賀上裕輝, 相澤宏旭.
+  "AttentionのRényi Entropyに基づくパッチ枝刈り戦略".
+   ビジョン技術の実利用ワークショップ ViEW2025, IS2-14, 2025.12.4, 査読あり.
 
 ## 資格
 * 基本情報技術者試験
